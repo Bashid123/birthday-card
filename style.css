@@ -70,7 +70,7 @@ body {
   padding: 0.5em 0;
   text-transform: uppercase;
   font-size: 2em;
-  background: linear-gradient(to right, #f32170, #ff0c08, #710071, #eedd44);
+  background: linear-gradient(to right, #f32121, #ff0c08, #710071, #eedd44);
   -webkit-text-fill-color: transparent;
   -webkit-background-clip: text;
   animation: untold 3s infinite ease-in-out;
@@ -84,7 +84,7 @@ body {
     animation: untold 0.1s infinite ease-in-out;
   }
   50% {
-    background: linear-gradient(to right, #2fff00, #1008ff, #ec4705, #a744ee);
+    background: linear-gradient(to right, #35e00f, #1008ff, #9e340a, #a744ee);
     -webkit-text-fill-color: transparent;
     -webkit-background-clip: text;
     animation: untold 3s infinite ease-in-out;
